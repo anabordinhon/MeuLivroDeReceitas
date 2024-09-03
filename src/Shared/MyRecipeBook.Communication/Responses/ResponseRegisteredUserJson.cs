@@ -2,6 +2,6 @@
 {
     public class ResponseRegisteredUserJson
     {
-        public string Nome { get; set; }
+        public string Name { get; set; }
     }
 }
